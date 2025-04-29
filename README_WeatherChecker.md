@@ -86,8 +86,3 @@ weather-checker/
 ```
 
 ---
-
-## 五、关于
-
-作者：ChatGPT  
-本项目为学习演示用途。
